@@ -1,3 +1,5 @@
+*.pyc
+
 .ipynb_checkpoints/
 __pycache__/
 aclImdb/
@@ -8,3 +10,6 @@ aclImdb_v1.tar.gz
 
 #csv file
 movie_data.csv
+
+#pickle files
+*.pkl
