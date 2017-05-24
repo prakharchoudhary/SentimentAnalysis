@@ -1,6 +1,5 @@
 *.pyc
 
-.ipynb_checkpoints/
 __pycache__/
 aclImdb/
 
@@ -13,3 +12,6 @@ movie_data.csv
 
 #pickle files
 *.pkl
+
+#sqlite dataset
+*.sqlite
